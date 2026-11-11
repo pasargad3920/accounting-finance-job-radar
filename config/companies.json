@@ -1,0 +1,506 @@
+{
+  "version": "pilot-1",
+  "description": "50-company pilot: 12 configured public ATS feeds + 38 directory-only targets. Directory targets are NOT automatically monitored.",
+  "companies": [
+    {
+      "id": "satispay",
+      "name": "Satispay",
+      "industry": "Fintech",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "satispay",
+      "careers_url": "https://jobs.ashbyhq.com/satispay",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "enpal",
+      "name": "Enpal",
+      "industry": "Renewable energy",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "enpal",
+      "careers_url": "https://jobs.ashbyhq.com/enpal",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "pillar",
+      "name": "Pillar",
+      "industry": "Technology",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "pillar-srl",
+      "careers_url": "https://jobs.ashbyhq.com/pillar-srl",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "lexroom",
+      "name": "Lexroom",
+      "industry": "Technology",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "lexroom",
+      "careers_url": "https://jobs.ashbyhq.com/lexroom",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "sibill",
+      "name": "Sibill",
+      "industry": "Fintech",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "sibill",
+      "careers_url": "https://jobs.ashbyhq.com/sibill",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "docebo",
+      "name": "Docebo",
+      "industry": "Technology",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "docebo",
+      "careers_url": "https://jobs.ashbyhq.com/docebo",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "industry": "Mobility",
+      "mode": "api",
+      "provider": "ashby",
+      "token": "Lime",
+      "careers_url": "https://jobs.ashbyhq.com/Lime",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "ion-group",
+      "name": "ION Group",
+      "industry": "Financial technology",
+      "mode": "api",
+      "provider": "lever",
+      "token": "ion",
+      "careers_url": "https://jobs.lever.co/ion",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "veepee",
+      "name": "Veepee",
+      "industry": "Retail / e-commerce",
+      "mode": "api",
+      "provider": "lever",
+      "token": "veepee",
+      "careers_url": "https://jobs.lever.co/veepee",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "zeeco",
+      "name": "Zeeco",
+      "industry": "Industrial",
+      "mode": "api",
+      "provider": "lever",
+      "token": "zeeco",
+      "careers_url": "https://jobs.lever.co/zeeco",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "truelayer",
+      "name": "TrueLayer",
+      "industry": "Fintech",
+      "mode": "api",
+      "provider": "greenhouse",
+      "token": "truelayer",
+      "careers_url": "https://job-boards.greenhouse.io/truelayer",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "planradar",
+      "name": "PlanRadar",
+      "industry": "Construction software",
+      "mode": "api",
+      "provider": "greenhouse",
+      "token": "planradar",
+      "careers_url": "https://job-boards.greenhouse.io/planradar",
+      "evidence": "public_job_board_identified_2026_11_11"
+    },
+    {
+      "id": "target-ferrari",
+      "name": "Ferrari",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": "https://jobs.ferrari.com/search/?createNewAlert=false&q=&optionsFacetsDD_country=IT&optionsFacetsDD_customfield1=",
+      "evidence": "official_career_link"
+    },
+    {
+      "id": "target-sky-italia",
+      "name": "Sky Italia",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": "https://careers.sky.com/it/en/jobs",
+      "evidence": "official_career_link"
+    },
+    {
+      "id": "target-kiko-milano",
+      "name": "KIKO Milano",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": "https://kiko.recruitmentplatform.com/careers/list/",
+      "evidence": "official_career_link"
+    },
+    {
+      "id": "target-roche",
+      "name": "Roche",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": "https://careers.roche.com/global/en/search-results",
+      "evidence": "official_career_link"
+    },
+    {
+      "id": "target-warner-bros--discovery",
+      "name": "Warner Bros. Discovery",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-mediaset",
+      "name": "Mediaset",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-rai",
+      "name": "RAI",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-paramount",
+      "name": "Paramount",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-netflix",
+      "name": "Netflix",
+      "industry": "Media",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-giorgio-armani",
+      "name": "Giorgio Armani",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-prada-group",
+      "name": "Prada Group",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-versace",
+      "name": "Versace",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-chanel",
+      "name": "Chanel",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-gucci",
+      "name": "Gucci",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-moncler",
+      "name": "Moncler",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-lvmh",
+      "name": "LVMH",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-otb-group---diesel",
+      "name": "OTB Group / Diesel",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-swatch-group",
+      "name": "Swatch Group",
+      "industry": "Fashion & Luxury",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-sephora",
+      "name": "Sephora",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-l-or-al",
+      "name": "L’Oréal",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-est-e-lauder",
+      "name": "Estée Lauder",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-coty",
+      "name": "Coty",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-shiseido",
+      "name": "Shiseido",
+      "industry": "Beauty",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-novartis",
+      "name": "Novartis",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-pfizer",
+      "name": "Pfizer",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-sanofi",
+      "name": "Sanofi",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-astrazeneca",
+      "name": "AstraZeneca",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-chiesi",
+      "name": "Chiesi",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-recordati",
+      "name": "Recordati",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-menarini",
+      "name": "Menarini",
+      "industry": "Pharmaceutical",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-lamborghini",
+      "name": "Lamborghini",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-stellantis",
+      "name": "Stellantis",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-bmw-group",
+      "name": "BMW Group",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-mercedes-benz",
+      "name": "Mercedes-Benz",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-volkswagen-group",
+      "name": "Volkswagen Group",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-toyota",
+      "name": "Toyota",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-brembo",
+      "name": "Brembo",
+      "industry": "Automotive",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    },
+    {
+      "id": "target-nestl",
+      "name": "Nestlé",
+      "industry": "FMCG",
+      "mode": "directory",
+      "provider": null,
+      "token": null,
+      "careers_url": null,
+      "evidence": "target_only_not_verified"
+    }
+  ]
+}

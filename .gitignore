@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+_outbox.json
+.DS_Store
+.env
+.venv/
