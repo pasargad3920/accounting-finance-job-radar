@@ -1,8 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T02:53:02Z",
+  "updated_at": "2026-11-23T13:02:07Z",
   "baseline_ready": true,
   "jobs": [
+    {
+      "id": "satispay:66929851297edf1afd9d27",
+      "company_id": "satispay",
+      "company": "Satispay",
+      "industry": "Fintech",
+      "title": "Senior Financial Accountant",
+      "location": "Milan, Italy / Milan / Lombardia",
+      "geographies": [
+        "lombardy"
+      ],
+      "url": "https://jobs.ashbyhq.com/satispay/5489d9d5-7d39-48a4-a5c1-111afeb4ca2d/application",
+      "source": "ashby",
+      "group": "EN · General Accounting",
+      "score": 94,
+      "skill_hits": [
+        "sap",
+        "closing",
+        "reconciliation",
+        "ifrs",
+        "accounts payable"
+      ],
+      "published_at": "2026-11-23T08:48:45.574000Z",
+      "workplace": "Hybrid",
+      "first_seen_at": "2026-11-23T13:02:07Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
+      "active": true,
+      "stale": false
+    },
     {
       "id": "ion-group:8a02ada191ab192e9ed9fb",
       "company_id": "ion-group",
@@ -27,7 +55,7 @@
       "published_at": null,
       "workplace": "hybrid",
       "first_seen_at": "2026-11-16T22:14:37Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -55,7 +83,7 @@
       "published_at": null,
       "workplace": "hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -82,7 +110,7 @@
       "published_at": null,
       "workplace": "hybrid",
       "first_seen_at": "2026-11-16T22:14:37Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -109,7 +137,7 @@
       "published_at": null,
       "workplace": "hybrid",
       "first_seen_at": "2026-11-20T13:03:39Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -134,7 +162,7 @@
       "published_at": "2026-10-29T10:56:47.933000Z",
       "workplace": "Hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -158,7 +186,7 @@
       "published_at": "2026-11-04T10:55:44.162000Z",
       "workplace": "Hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -180,7 +208,7 @@
       "published_at": "2026-11-03T10:18:40.518000Z",
       "workplace": "Hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -202,7 +230,7 @@
       "published_at": "2026-10-21T14:40:11.557000Z",
       "workplace": "Hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -224,7 +252,7 @@
       "published_at": null,
       "workplace": "hybrid",
       "first_seen_at": "2026-11-11T15:13:50Z",
-      "last_seen_at": "2026-11-23T02:53:02Z",
+      "last_seen_at": "2026-11-23T13:02:07Z",
       "active": true,
       "stale": false
     },
@@ -263,9 +291,9 @@
       "careers_url": "https://jobs.ashbyhq.com/satispay",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
-      "matched_jobs": 1,
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
+      "matched_jobs": 2,
       "error": null
     },
     {
@@ -276,8 +304,8 @@
       "careers_url": "https://jobs.ashbyhq.com/enpal",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -289,8 +317,8 @@
       "careers_url": "https://jobs.ashbyhq.com/pillar-srl",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -302,8 +330,8 @@
       "careers_url": "https://jobs.ashbyhq.com/lexroom",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 3,
       "error": null
     },
@@ -315,8 +343,8 @@
       "careers_url": "https://jobs.ashbyhq.com/sibill",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -328,8 +356,8 @@
       "careers_url": "https://jobs.ashbyhq.com/docebo",
       "provider": "ashby",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -341,7 +369,7 @@
       "careers_url": "https://jobs.ashbyhq.com/Lime",
       "provider": "ashby",
       "status": "error",
-      "last_checked": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
       "last_success": null,
       "matched_jobs": 0,
       "error": "API unavailable: HTTPError"
@@ -354,8 +382,8 @@
       "careers_url": "https://jobs.lever.co/ion",
       "provider": "lever",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 4,
       "error": null
     },
@@ -367,8 +395,8 @@
       "careers_url": "https://jobs.lever.co/veepee",
       "provider": "lever",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 1,
       "error": null
     },
@@ -380,8 +408,8 @@
       "careers_url": "https://jobs.lever.co/zeeco",
       "provider": "lever",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -393,7 +421,7 @@
       "careers_url": "https://job-boards.greenhouse.io/truelayer",
       "provider": "greenhouse",
       "status": "error",
-      "last_checked": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
       "last_success": "2026-11-18T04:29:29Z",
       "matched_jobs": 1,
       "error": "API unavailable: HTTPError"
@@ -406,8 +434,8 @@
       "careers_url": "https://job-boards.greenhouse.io/planradar",
       "provider": "greenhouse",
       "status": "ok",
-      "last_checked": "2026-11-23T02:53:02Z",
-      "last_success": "2026-11-23T02:53:02Z",
+      "last_checked": "2026-11-23T13:02:07Z",
+      "last_success": "2026-11-23T13:02:07Z",
       "matched_jobs": 0,
       "error": null
     },
@@ -911,8 +939,8 @@
     "configured_feeds": 12,
     "healthy_feeds": 10,
     "directory_only": 38,
-    "active_matches": 10,
-    "new_this_scan": 0,
+    "active_matches": 11,
+    "new_this_scan": 1,
     "stale_matches": 1
   }
 }
